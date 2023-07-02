@@ -32,7 +32,7 @@ class Function():
 # Function(a=100, b=2, c=1000)
 
 max_force= 25   #c/a
-slope = 2000      #c
+slope = 2000      #c#c
 
 
 Function(a=slope/max_force, b=2, c=slope)
